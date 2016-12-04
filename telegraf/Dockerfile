@@ -1,5 +1,5 @@
 FROM telegraf:latest
-MAINTAINER Mateusz Trojak <mateusz.trojak@gmail.com>
+MAINTAINER Arnaldo Monteiro <colomboipl@gmail.com>
 LABEL version="1.0"
 LABEL description="Telegraf Image with added system variables"
 
